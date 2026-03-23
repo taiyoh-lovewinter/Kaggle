@@ -1,0 +1,9 @@
+# without Version Specifiers
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+optuna
